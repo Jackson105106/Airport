@@ -1,19 +1,22 @@
-- DOMAIN,api.ds1.cwesco.com,DIRECT
-- DOMAIN,api.ds6.mantou.biz,DIRECT
-- DOMAIN,api.qw8.flycrow.pro,DIRECT
-- DOMAIN,api.qw7.flycrow.pro,DIRECT
-- DOMAIN,api.ds5.mantou.biz,DIRECT
-- DOMAIN,api.ds2.cwesco.com,DIRECT
-- DOMAIN,api.tracker.m-team.cc,DIRECT
-- DOMAIN,api.tra1.m-team.cc,DIRECT
-- DOMAIN,api.tra1.m-team.io,DIRECT
-- DOMAIN,api.tracker.m-team.io,DIRECT
-- DOMAIN,api.rss.m-team.cc,DIRECT
-- DOMAIN,api.rss.m-team.io,DIRECT
-- DOMAIN,api.tracker.hhan.club,DIRECT
-- DOMAIN-SUFFIX,hdfans.org,DIRECT
-- DOMAIN-SUFFIX,m-team.cc,DIRECT
-- DOMAIN-SUFFIX,m-team.io,DIRECT
-- DOMAIN-SUFFIX,hhanclub.top,DIRECT
-- DOMAIN-SUFFIX,atmos.club,DIRECT
-- DOMAIN-SUFFIX,mikanani.tv,DIRECT
+#PT
+payload:
+- DOMAIN,api.ds1.cwesco.com
+- DOMAIN,api.ds6.mantou.biz
+- DOMAIN,api.qw8.flycrow.pro
+- DOMAIN,api.qw7.flycrow.pro
+- DOMAIN,api.ds5.mantou.biz
+- DOMAIN,api.ds2.cwesco.com
+- DOMAIN,api.tracker.m-team.cc
+- DOMAIN,api.tra1.m-team.cc
+- DOMAIN,api.tra1.m-team.io
+- DOMAIN,api.tracker.m-team.io
+- DOMAIN,api.rss.m-team.cc
+- DOMAIN,api.rss.m-team.io
+- DOMAIN,api.tracker.hhan.club
+- DOMAIN-SUFFIX,hdfans.org
+- DOMAIN-SUFFIX,m-team.cc
+- DOMAIN-SUFFIX,m-team.io
+- DOMAIN-SUFFIX,hhanclub.top
+- DOMAIN-SUFFIX,atmos.club
+- DOMAIN-SUFFIX,mikanani.tv
+
