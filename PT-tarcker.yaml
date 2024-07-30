@@ -12,7 +12,7 @@ payload:
 - DOMAIN,api.tracker.m-team.io
 - DOMAIN,api.rss.m-team.cc
 - DOMAIN,api.rss.m-team.io
-- DOMAIN,api.tracker.hhan.club
+- DOMAIN,tracker.hhan.club
 - DOMAIN-SUFFIX,hdfans.org
 - DOMAIN-SUFFIX,m-team.cc
 - DOMAIN-SUFFIX,m-team.io
