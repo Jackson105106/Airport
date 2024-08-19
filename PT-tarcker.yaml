@@ -1,27 +1,14 @@
 #PT
 payload:
-- DOMAIN,api.ds1.cwesco.com
-- DOMAIN,api.ds6.mantou.biz
-- DOMAIN,api.qw8.flycrow.pro
-- DOMAIN,api.qw7.flycrow.pro
-- DOMAIN,api.ds5.mantou.biz
-- DOMAIN,api.ds2.cwesco.com
-- DOMAIN,api.tracker.m-team.cc
-- DOMAIN,api.tra1.m-team.cc
-- DOMAIN,api.tra1.m-team.io
-- DOMAIN,api.tracker.m-team.io
-- DOMAIN,api.rss.m-team.cc
-- DOMAIN,api.rss.m-team.io
-- DOMAIN,tracker.hhan.club
-- DOMAIN-SUFFIX,hdfans.org
-- DOMAIN-SUFFIX,m-team.cc
+- DOMAIN-SUFFIX,manfuz.co
+- DOMAIN-SUFFIX,cwesco.com
+- DOMAIN-SUFFIX,makeoxc.co
 - DOMAIN-SUFFIX,m-team.io
-- DOMAIN-SUFFIX,hhanclub.top
-- DOMAIN-SUFFIX,atmos.club
-- DOMAIN-SUFFIX,mikanani.tv
-- DOMAIN-SUFFIX,ubits.club
-- DOMAIN,t.ubits.club
-- DOMAIN,zp.m-team.io
+- DOMAIN-SUFFIX,m-team.cc
+- DOMAIN-SUFFIX,hdfans.org
 - DOMAIN-SUFFIX,zmpt.cc
-- DOMAIN-SUFFIX,hhan.club
-- DOMAIN,tracker.hhan.club
+- DOMAIN,zp.m-team.io
+- DOMAIN,hdfans.org
+- DOMAIN,zmpt.cc
+- DOMAIN,ubits.club
+- DOMAIN-SUFFIX,ubits.club
