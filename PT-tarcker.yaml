@@ -12,5 +12,5 @@ payload:
 - DOMAIN,zmpt.cc
 - DOMAIN,ubits.club
 - DOMAIN-SUFFIX,ubits.club
-- DOMAIN-SUFFIX,tracker.hhan.club
-- DOMAIN,hhan.club
+- DOMAIN-SUFFIX,hhan.club
+- DOMAIN,tracker.hhan.club
