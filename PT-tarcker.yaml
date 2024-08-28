@@ -16,3 +16,9 @@ payload:
 - DOMAIN,hhan.club
 - DOMAIN,hhanclub.top
 - DOMAIN-SUFFIX,hhanclub.top
+- SRC-PORT,51413
+- DST-PORT,51413
+- DOMAIN-SUFFIX,980315.xyz
+- PROCESS-NAME,qbittorrent
+- PROCESS-NAME,Transmission
+- PROCESS-NAME,transmission
