@@ -1,0 +1,24 @@
+#PT
+payload:
+- DOMAIN-SUFFIX,manfuz.co
+- DOMAIN-SUFFIX,cwesco.com
+- DOMAIN-SUFFIX,makeoxc.co
+- DOMAIN-SUFFIX,m-team.io
+- DOMAIN-SUFFIX,m-team.cc
+- DOMAIN-SUFFIX,hdfans.org
+- DOMAIN-SUFFIX,zmpt.cc
+- DOMAIN,zp.m-team.io
+- DOMAIN,hdfans.org
+- DOMAIN,zmpt.cc
+- DOMAIN,ubits.club
+- DOMAIN-SUFFIX,ubits.club
+- DOMAIN-SUFFIX,hhan.club
+- DOMAIN,hhan.club
+- DOMAIN,hhanclub.top
+- DOMAIN-SUFFIX,hhanclub.top
+- SRC-PORT,51413
+- DST-PORT,51413
+- DOMAIN-SUFFIX,980315.xyz
+- PROCESS-NAME,qbittorrent
+- PROCESS-NAME,Transmission
+- PROCESS-NAME,transmission
