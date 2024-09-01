@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain": [
@@ -124,11 +124,24 @@
         "www.peckservers.com",
         "www.torrent.eu.org",
         "www.wareztorrent.com",
-        "z.mercax.com"
+        "z.mercax.com",
+        "zp.m-team.io",
+        "hhan.club",
+        "hdfans.org",
+        "ubits.club"
+        "zmpt.cc",
       ]
     },
     {
       "domain_suffix": [
+        "manfuz.co",
+        "cwesco.com",
+        "makeoxc.co",
+        "m-team.io",
+        "m-team.cc",
+        "zmpt.cc",
+        "ubits.club",
+        "hhan.club",
         "1ptba.com",
         "2xfree.org",
         "52pt.site",
