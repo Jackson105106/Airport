@@ -269,13 +269,6 @@
         "49.12.76.8/32",
         "52.58.128.163/32"
       ]
-    },
-    {
-      "process_name": [
-        "qbittorrent",
-        "Transmission",
-        "transmission"
-      ]
     }
   ]
 }
