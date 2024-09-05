@@ -22,3 +22,10 @@ payload:
 - PROCESS-NAME,qbittorrent
 - PROCESS-NAME,Transmission
 - PROCESS-NAME,transmission
+#在线观看
+- DOMAIN-SUFFIX,libvio.vip
+- DOMAIN-SUFFIX,libvio.link
+- DOMAIN-SUFFIX,netflixgc.com
+- DOMAIN-SUFFIX,naifei.io
+- DOMAIN-SUFFIX,wangfei.la
+- DOMAIN-SUFFIX,btnull.org
