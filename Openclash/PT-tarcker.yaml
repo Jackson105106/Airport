@@ -14,8 +14,6 @@ payload:
 - DOMAIN-SUFFIX,ubits.club
 - DOMAIN-SUFFIX,hhan.club
 - DOMAIN,hhan.club
-- DOMAIN,hhanclub.top
-- DOMAIN-SUFFIX,hhanclub.top
 - SRC-PORT,51413
 - DST-PORT,51413
 - DOMAIN-SUFFIX,980315.xyz
