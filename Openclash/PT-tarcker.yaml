@@ -6,6 +6,7 @@ payload:
 - DOMAIN-SUFFIX,m-team.io
 - DOMAIN-SUFFIX,m-team.cc
 - DOMAIN-SUFFIX,hdfans.org
+- DOMAIN-SUFFIX,hhanclub.top
 - DOMAIN-SUFFIX,zmpt.cc
 - DOMAIN,zp.m-team.io
 - DOMAIN,hdfans.org
@@ -14,12 +15,7 @@ payload:
 - DOMAIN-SUFFIX,ubits.club
 - DOMAIN-SUFFIX,hhan.club
 - DOMAIN,hhan.club
-- SRC-PORT,51413
-- DST-PORT,51413
-- DOMAIN-SUFFIX,980315.xyz
-- PROCESS-NAME,qbittorrent
-- PROCESS-NAME,Transmission
-- PROCESS-NAME,transmission
+- DOMAIN,hhanclub.top
 #在线观看
 - DOMAIN-SUFFIX,libvio.vip
 - DOMAIN-SUFFIX,libvio.link
