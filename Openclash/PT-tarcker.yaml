@@ -17,6 +17,8 @@ payload:
 - DOMAIN,hhan.club
 - DOMAIN,hhanclub.top
 - DOMAIN,lemonhd.club
+- DOMAIN,audiences.me
+- DOMAIN-SUFFIX,audiences.me
 #在线观看
 - DOMAIN-SUFFIX,libvio.vip
 - DOMAIN-SUFFIX,libvio.link
