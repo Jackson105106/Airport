@@ -74,3 +74,7 @@ payload:
 - DOMAIN-SUFFIX,hhan.club
 - DOMAIN-SUFFIX,cinefiles.info
 - DOMAIN-SUFFIX,connects.icu
+- DOMAIN,region1.v2.argotunnel.com
+- DOMAIN,region2.v2.argotunnel.com
+- DOMAIN-SUFFIX,v2.argotunnel.com
+- DOMAIN-SUFFIX,v2.argotunnel.com
