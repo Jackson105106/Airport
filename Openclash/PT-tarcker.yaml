@@ -1,80 +1,72 @@
-#PT
+# PT
 payload:
-- DOMAIN-SUFFIX,manfuz.co
-- DOMAIN-SUFFIX,cwesco.com
-- DOMAIN-SUFFIX,makeoxc.co
-- DOMAIN-SUFFIX,m-team.io
-- DOMAIN-SUFFIX,m-team.cc
-- DOMAIN-SUFFIX,hdfans.org
-- DOMAIN-SUFFIX,hhanclub.top
-- DOMAIN-SUFFIX,zmpt.cc
-- DOMAIN,zp.m-team.io
-- DOMAIN,hdfans.org
-- DOMAIN,zmpt.cc
-- DOMAIN,ubits.club
-- DOMAIN-SUFFIX,ubits.club
-- DOMAIN-SUFFIX,hhan.club
-- DOMAIN,hhan.club
-- DOMAIN,hhanclub.top
-- DOMAIN,lemonhd.club
-#观众
-- DOMAIN,audiences.me
-- DOMAIN-SUFFIX,audiences.me
-- DOMAIN,t.audiences.me
-- DOMAIN-SUFFIX,t.audiences.me
-- DOMAIN-SUFFIX,tracker.cinefiles.info
-- DOMAIN,tracker.cinefiles.info
-#在线观看
-- DOMAIN-SUFFIX,libvio.vip
-- DOMAIN-SUFFIX,libvio.link
-- DOMAIN-SUFFIX,netflixgc.com
-- DOMAIN-SUFFIX,naifei.io
-- DOMAIN-SUFFIX,wangfei.la
-- DOMAIN-SUFFIX,btnull.org
-#收集
-- DOMAIN-KEYWORD,tracker
-- PROCESS-NAME,aria2c
-- PROCESS-NAME,BitComet
-- PROCESS-NAME,fdm
-- PROCESS-NAME,NetTransport
-- PROCESS-NAME,qbittorrent
-- PROCESS-NAME,Thunder
-- PROCESS-NAME,transmission-daemon
-- PROCESS-NAME,transmission-qt
-- PROCESS-NAME,uTorrent
-- PROCESS-NAME,WebTorrent
-- PROCESS-NAME,Folx
-- PROCESS-NAME,Transmission
-- PROCESS-NAME,WebTorrent Helper
-- PROCESS-NAME,v2ray
-- DOMAIN-KEYWORD,tracker
-- DOMAIN-SUFFIX,v4.plex.tv
-- DOMAIN-SUFFIX,keepfrds.com
-- DOMAIN-SUFFIX,pterclub.com
-- DOMAIN-SUFFIX,sunnypt.top
-- DOMAIN-SUFFIX,audiences.me
-- DOMAIN-SUFFIX,hhanclub.top
-- DOMAIN-SUFFIX,m-team.cc
-- DOMAIN-SUFFIX,totheglory.im
-- DOMAIN-SUFFIX,eastgame.org
-- DOMAIN-SUFFIX,ourbits.club
-- DOMAIN-SUFFIX,hdhome.org
-- DOMAIN-SUFFIX,open.cd
-- DOMAIN-SUFFIX,btschool.club
-- DOMAIN-SUFFIX,leaves.red
-- DOMAIN-SUFFIX,agsvpt.com
-- DOMAIN-SUFFIX,pthome.net
-- DOMAIN-SUFFIX,dicmusic.com
-- DOMAIN-SUFFIX,iptorrents.com
-- DOMAIN-SUFFIX,ianon.app
-- DOMAIN-SUFFIX,hdfans.org
-- DOMAIN-SUFFIX,1ptba.com
-- DOMAIN-SUFFIX,nextpt.net
-- DOMAIN-SUFFIX,cinefiles.info
-- DOMAIN-SUFFIX,hhan.club
-- DOMAIN-SUFFIX,cinefiles.info
-- DOMAIN-SUFFIX,connects.icu
-- DOMAIN,region1.v2.argotunnel.com
-- DOMAIN,region2.v2.argotunnel.com
-- DOMAIN-SUFFIX,v2.argotunnel.com
-- DOMAIN-SUFFIX,v2.argotunnel.com
+  - DOMAIN-SUFFIX,manfuz.co
+  - DOMAIN-SUFFIX,cwesco.com
+  - DOMAIN-SUFFIX,makeoxc.co
+  - DOMAIN-SUFFIX,m-team.io
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,zmpt.cc
+  - DOMAIN,zp.m-team.io
+  - DOMAIN,zmpt.cc
+  - DOMAIN,ubits.club
+  - DOMAIN-SUFFIX,ubits.club
+  - DOMAIN-SUFFIX,hhan.club
+  - DOMAIN,lemonhd.club
+
+# 观众
+  - DOMAIN,audiences.me
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN,t.audiences.me
+  - DOMAIN-SUFFIX,t.audiences.me
+  - DOMAIN-SUFFIX,tracker.cinefiles.info
+  - DOMAIN,tracker.cinefiles.info
+
+# 在线观看
+  - DOMAIN-SUFFIX,libvio.vip
+  - DOMAIN-SUFFIX,libvio.link
+  - DOMAIN-SUFFIX,netflixgc.com
+  - DOMAIN-SUFFIX,naifei.io
+  - DOMAIN-SUFFIX,wangfei.la
+  - DOMAIN-SUFFIX,btnull.org
+
+# 收集
+  - DOMAIN-KEYWORD,tracker
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,BitComet
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,transmission-daemon
+  - PROCESS-NAME,transmission-qt
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,WebTorrent Helper
+  - PROCESS-NAME,v2ray
+  - DOMAIN-SUFFIX,v4.plex.tv
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,eastgame.org
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,agsvpt.com
+  - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,dicmusic.com
+  - DOMAIN-SUFFIX,iptorrents.com
+  - DOMAIN-SUFFIX,ianon.app
+  - DOMAIN-SUFFIX,1ptba.com
+  - DOMAIN-SUFFIX,nextpt.net
+  - DOMAIN-SUFFIX,cinefiles.info
+  - DOMAIN-SUFFIX,connects.icu
+  - DOMAIN,region1.v2.argotunnel.com
+  - DOMAIN,region2.v2.argotunnel.com
+  - DOMAIN-SUFFIX,v2.argotunnel.com
