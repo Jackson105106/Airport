@@ -72,3 +72,5 @@ payload:
   - DOMAIN,region2.v2.argotunnel.com
   - DOMAIN-SUFFIX,v2.argotunnel.com 
   - DOMAIN-SUFFIX,oldmanemu.net
+  - DOMAIN,work.weixin.qq.com
+  - DOMAIN,qyapi.weixin.qq.com
