@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,dockerhub.com
 # NAME: Tmdb
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
+# NAME: V2ex
+DOMAIN-SUFFIX,V2ex.com
